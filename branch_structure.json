@@ -1,0 +1,39 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "bugfix/fix-bundles",
+    "bugfix/initial-click-on-void",
+    "declaration-merging",
+    "dependabot/npm_and_yarn/handlebars-4.7.6",
+    "master",
+    "remove-unnecessary",
+    "ts-thesunny-try",
+    "unforce",
+    "upgrade-next",
+    "v0.47"
+  ],
+  "parent": {
+    "bugfix/fix-bundles": "master",
+    "bugfix/initial-click-on-void": "master",
+    "declaration-merging": "master",
+    "dependabot/npm_and_yarn/handlebars-4.7.6": "master",
+    "master": null,
+    "remove-unnecessary": "master",
+    "ts-thesunny-try": "master",
+    "unforce": "master",
+    "upgrade-next": "master",
+    "v0.47": "master"
+  },
+  "order": [
+    "master",
+    "bugfix/fix-bundles",
+    "bugfix/initial-click-on-void",
+    "declaration-merging",
+    "dependabot/npm_and_yarn/handlebars-4.7.6",
+    "remove-unnecessary",
+    "ts-thesunny-try",
+    "unforce",
+    "upgrade-next",
+    "v0.47"
+  ]
+}
